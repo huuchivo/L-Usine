@@ -11,6 +11,10 @@ a.nav{
     line-height: 1.2;
 }
 
+a:hover {
+    color: #ff414b;
+  }
+
 body{
     background-color: #FCF5EB;
 }
