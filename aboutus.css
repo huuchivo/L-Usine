@@ -1,0 +1,48 @@
+*{
+    font-family: 'Noto Serif', serif;
+    margin: 0;
+    color: #FCF5EB;
+}
+
+.image_hero > img{
+    display: block;
+    width: 100%;
+}
+
+.about_us >p{
+    text-align: center;
+    color: #293333;
+    font-size: 34px;
+    margin: 84px 118px;
+}
+
+.about_us > img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+  width: 80%;
+}
+
+.text_intro_middle > p {
+    text-align: center;
+    color: #FF414B;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.text_intro_middle {
+    margin-bottom: 100px;
+}
+
+.footer_image > img{
+    display: block;
+    width: 100%;
+}
+
+.text_intro_middle2 >p{
+    text-align: center;
+    color: #293333;
+    font-size: 34px;
+    margin: 84px 118px;
+}
