@@ -1,0 +1,58 @@
+nav{
+    background-image: url(https://lusinespace.com/wp-content/uploads/2018/01/7.jpg);
+    position: relative;
+    color: #293333;
+}
+
+a.nav{
+    text-decoration: none;
+    color: #293333;
+    font-size: 2.4890190337vw;
+    line-height: 1.2;
+}
+
+a:hover {
+    color: #ff414b;
+  }
+
+body{
+    background-color: #FCF5EB;
+}
+
+.mainvideo{
+    height: 351px;
+    width: 100%;
+}
+
+.firstLimage{
+    width: 63.52px;
+    height: 14px;
+}
+
+h1{
+    color: #ff414b;
+    font-size: 16vw;
+    line-height: 1.36;
+}
+
+.ourstory-paragraphs{
+    font-family: Clarendon Light;
+    color: #293333;
+    font-size: 4vw;
+    display: block;
+}
+
+footer{
+    color: #fcf5eb;
+    font-family: Clarendon Light;
+    background-color: #293333;
+    display: block;
+    font-size: 44px;
+}
+
+.footercolumn{
+    color: #fcf5eb;
+    display: block;
+    text-align: left;
+    text-decoration: none;
+}
